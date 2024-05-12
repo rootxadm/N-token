@@ -123,15 +123,15 @@ async def start_command(client: Client, message: Message):
                 #     caption = "" if not msg.caption else msg.caption.html
                 title = msg.get("title")
                 size=get_size(int(msg.get("size", 0)))
-                f_caption=msg.get("caption", "")
+                caption=msg.get("caption", "")
                 if CUSTOM_CAPTION :
                     try:
-                        f_caption=CUSTOM_CAPTION.format(file_name= '' if title is None else title, file_size='' if size is None else size, file_caption='' if f_caption is None else f_caption)
+                        caption=CUSTOM_CAPTION.format(file_name= '' if title is None else title, file_size='' if size is None else size, file_caption='' if caption is None else caption)
                     except Exception as e:
                         #logger.exception(e)
-                        f_caption=f_caption
-                if f_caption is None:
-                    f_caption = f"{title}"
+                        caption=caption
+                if caption is None:
+                    caption = f"{title}"
                 if DISABLE_CHANNEL_BUTTON:
                     reply_markup = msg.reply_markup
                 else:
