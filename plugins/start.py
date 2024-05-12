@@ -121,12 +121,12 @@ async def start_command(client: Client, message: Message):
                 #     caption = CUSTOM_CAPTION.format(previouscaption="" if not msg.caption else msg.caption.html, filename=msg.document.file_name)
                 # else:
                 #     caption = "" if not msg.caption else msg.caption.html
-                title = msg.get("title")
-                size=get_size(int(msg.get("size", 0)))
+                #title = msg.get("title")
+                #size=get_size(int(msg.get("size", 0)))
                 caption=msg.get("caption", "")
                 if CUSTOM_CAPTION :
                     try:
-                        caption=CUSTOM_CAPTION.format(file_name= '' if title is None else title, file_size='' if size is None else size, file_caption='' if caption is None else caption)
+                        caption=CUSTOM_CAPTION.format(file_caption='' if caption is None else caption)
                     except Exception as e:
                         #logger.exception(e)
                         caption=caption
