@@ -117,21 +117,21 @@ async def start_command(client: Client, message: Message):
                     size /= 1024.0
                 return "%.2f %s" % (size, units[i])
             for msg in messages:
-                # if bool(CUSTOM_CAPTION) & bool(msg.document):
-                #     caption = CUSTOM_CAPTION.format(previouscaption="" if not msg.caption else msg.caption.html, filename=msg.document.file_name)
-                # else:
-                #     caption = "" if not msg.caption else msg.caption.html
+                if bool(CUSTOM_CAPTION):
+                    caption = CUSTOM_CAPTION.format(previouscaption="" if not msg.caption else msg.caption.html)
+                else:
+                    caption = "" if not msg.caption else msg.caption.html
                 #title = msg.get("title")
                 #size=get_size(int(msg.get("size", 0)))
-                caption=msg.get("caption", "")
-                if CUSTOM_CAPTION :
-                    try:
-                        caption=CUSTOM_CAPTION.format(file_caption='' if caption is None else caption)
-                    except Exception as e:
-                        #logger.exception(e)
-                        caption=caption
-                if caption is None:
-                    caption = f"{title}"
+                # caption=msg.get("caption", "")
+                # if CUSTOM_CAPTION :
+                #     try:
+                #         caption=CUSTOM_CAPTION.format(file_caption='' if caption is None else caption)
+                #     except Exception as e:
+                #         #logger.exception(e)
+                #         caption=caption
+                # if caption is None:
+                #     caption = f"{title}"
                 if DISABLE_CHANNEL_BUTTON:
                     reply_markup = msg.reply_markup
                 else:
