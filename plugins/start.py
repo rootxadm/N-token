@@ -1,4 +1,4 @@
-#Credit @Codeflix_bots
+#Credit @neelakurinji_vip
 
 import asyncio
 import base64
