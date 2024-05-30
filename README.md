@@ -50,13 +50,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 # ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴍʏ ᴄʀᴇᴅɪᴛ...
 
-</b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/neelakurinji_vip)</b>
+</b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/Media_Adholokam)</b>
 
-- ᴄʀᴇᴅɪᴛ <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/neelakurinji_vip)  ➻  [ᴏᴡɴᴇʀ](https://t.me/sewxiy) </b>
+- ᴄʀᴇᴅɪᴛ <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/Media_Adholokam)  ➻  [ᴏᴡɴᴇʀ](https://t.me/sewxiy) </b>
 - ᴘʟᴇᴀsᴇ ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴄʀᴇᴅɪᴛ..
 - ᴛʜᴀɴᴋ ʏᴏᴜ ᴄᴏᴅᴇғʟɪx ʙᴏᴛs ғᴏʀ ʜᴇʟᴘɪɴɢ ᴜs ɪɴ ᴛʜɪs ᴊᴏᴜʀɴᴇʏ 
 - ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ɢɪᴠɪɴɢ ᴍᴇ ᴄʀᴇᴅɪᴛ @Codeflix-bots  
-- ғᴏʀ ᴀɴʏ ᴇʀʀᴏʀ ᴘʟᴇᴀsᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ -> ᴛᴇʟᴇɢʀᴀᴍ @neelakurinji_vip Community @Otakflix_Network </b>
+- ғᴏʀ ᴀɴʏ ᴇʀʀᴏʀ ᴘʟᴇᴀsᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ -> ᴛᴇʟᴇɢʀᴀᴍ @Media_Adholokam Community @Otakflix_Network </b>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -107,7 +107,7 @@ python3 bot.py
 <h3>「 ᴄʀᴇᴅɪᴛs 」
 </h3>
 
-- <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/neelakurinji_vip)  ➻  [ʙᴀsᴇ ᴄᴏᴅᴇ](https://t.me/neelakurinji_vip) </b>
+- <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/Media_Adholokam)  ➻  [ʙᴀsᴇ ᴄᴏᴅᴇ](https://t.me/Media_Adholokam) </b>
 - <b>[ᴍɪᴋᴇʏ](https://github.com/erotixe)  ➻  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://t.me/veldxd) </b>
  
 <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/codeflix-bots) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ  ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ ᴛᴏᴋᴇɴ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>

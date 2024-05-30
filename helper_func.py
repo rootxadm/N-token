@@ -1,4 +1,4 @@
-#(©)neelakurinji_vip
+#(©)Media_Adholokam
 import base64
 import re
 import asyncio

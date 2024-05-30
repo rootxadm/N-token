@@ -1,4 +1,4 @@
-# Thanks @neelakurinji_vip
+# Thanks @Media_Adholokam
 
 import os
 import logging
